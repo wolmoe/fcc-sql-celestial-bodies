@@ -1,2 +1,3 @@
-# fcc-sql-celestial-bodies
-Celestial Body Database - DIY task of freeCodeCamp's Relational Database Course
+# FreeCodeCamp Relational Database Course - Celestial Bodies Database
+
+Celestial Body Database built in bash with PostgreSQL - DIY task of freeCodeCamp's Relational Database Course
